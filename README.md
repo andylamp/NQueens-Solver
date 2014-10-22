@@ -1,4 +1,4 @@
-NQueensSolverSA
+NQueensSolver
 ===============
 
 Solver for the fully-expanded N-Queens problem using simulated annealing technique
